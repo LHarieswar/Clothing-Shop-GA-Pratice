@@ -8,7 +8,7 @@
     "offer": "SUMMER_30",
     "sizes": ["S", "M", "L", "XL"],
     "colors": ["Black", "White", "Blue"],
-    "image": "https://source.unsplash.com/600x600/?mens,tshirt",
+    "image": "assets/images/icon_tshirt.png",
     "rating": 4.5,
     "reviews": [
       {"rating": 5, "text": "Great quality, fits perfectly!"},
@@ -25,7 +25,7 @@
     "offer": null,
     "sizes": ["S", "M", "L", "XL"],
     "colors": ["Gray", "Black", "Blue"],
-    "image": "https://source.unsplash.com/600x600/?mens,hoodie",
+    "image": "assets/images/icon_hoodie.png",
     "rating": 4.7,
     "reviews": [
       {"rating": 5, "text": "Super warm and comfy."},
@@ -42,7 +42,7 @@
     "offer": "CLEARANCE_20",
     "sizes": ["S", "M", "L", "XL"],
     "colors": ["Black", "Gray"],
-    "image": "https://source.unsplash.com/600x600/?mens,joggers",
+    "image": "assets/images/icon_pants.png",
     "rating": 4.3,
     "reviews": [
       {"rating": 4, "text": "Very comfortable and breathable."},
@@ -59,7 +59,7 @@
     "offer": "NEW_ARRIVAL",
     "sizes": ["S", "M", "L", "XL"],
     "colors": ["White", "Blue"],
-    "image": "https://source.unsplash.com/600x600/?mens,shirt,formal",
+    "image": "assets/images/icon_tshirt.png",
     "rating": 4.6,
     "reviews": [
       {"rating": 5, "text": "Perfect for the office."},
@@ -76,7 +76,7 @@
     "offer": "SUMMER_20",
     "sizes": ["S", "M", "L", "XL"],
     "colors": ["Blue", "Khaki", "Black"],
-    "image": "https://source.unsplash.com/600x600/?mens,shorts",
+    "image": "assets/images/icon_pants.png",
     "rating": 4.2,
     "reviews": [
       {"rating": 4, "text": "Lightweight and comfy."},
@@ -93,7 +93,7 @@
     "offer": "SUMMER_30",
     "sizes": ["XS", "S", "M", "L"],
     "colors": ["Pink", "White", "Black"],
-    "image": "https://source.unsplash.com/600x600/?womens,crop-top",
+    "image": "assets/images/icon_tshirt.png",
     "rating": 4.4,
     "reviews": [
       {"rating": 5, "text": "Cute and trendy."},
@@ -110,7 +110,7 @@
     "offer": "NEW_ARRIVAL",
     "sizes": ["XS", "S", "M", "L"],
     "colors": ["Yellow", "Blue", "White"],
-    "image": "https://source.unsplash.com/600x600/?womens,dress",
+    "image": "assets/images/icon_dress.png",
     "rating": 4.8,
     "reviews": [
       {"rating": 5, "text": "Beautiful and flowy."},
@@ -127,7 +127,7 @@
     "offer": "CLEARANCE_20",
     "sizes": ["XS", "S", "M", "L", "XL"],
     "colors": ["Black", "Gray", "Navy"],
-    "image": "https://source.unsplash.com/600x600/?womens,leggings",
+    "image": "assets/images/icon_pants.png",
     "rating": 4.5,
     "reviews": [
       {"rating": 5, "text": "Great for workouts."},
@@ -144,7 +144,7 @@
     "offer": null,
     "sizes": ["XS", "S", "M", "L"],
     "colors": ["Red", "Black", "Beige"],
-    "image": "https://source.unsplash.com/600x600/?womens,skirt",
+    "image": "assets/images/icon_pants.png",
     "rating": 4.1,
     "reviews": [
       {"rating": 4, "text": "Nice fit, elegant look."},
@@ -161,7 +161,7 @@
     "offer": "SUMMER_20",
     "sizes": ["XS", "S", "M", "L", "XL"],
     "colors": ["Blue", "Black"],
-    "image": "https://source.unsplash.com/600x600/?womens,denim-jacket",
+    "image": "assets/images/icon_hoodie.png",
     "rating": 4.6,
     "reviews": [
       {"rating": 5, "text": "Great quality denim."},
@@ -178,7 +178,7 @@
     "offer": "SUMMER_20",
     "sizes": ["2T", "4T", "6Y", "8Y"],
     "colors": ["Green", "Blue", "Yellow"],
-    "image": "https://source.unsplash.com/600x600/?kids,tshirt",
+    "image": "assets/images/icon_tshirt.png",
     "rating": 4.3,
     "reviews": [
       {"rating": 4, "text": "Bright colors and fun graphic."},
@@ -195,7 +195,7 @@
     "offer": "NEW_ARRIVAL",
     "sizes": ["2T", "4T", "6Y", "8Y"],
     "colors": ["Pink", "Blue"],
-    "image": "https://source.unsplash.com/600x600/?kids,clothing-set",
+    "image": "assets/images/icon_kids.png",
     "rating": 4.7,
     "reviews": [
       {"rating": 5, "text": "Perfect everyday wear."},
@@ -212,7 +212,7 @@
     "offer": "SUMMER_30",
     "sizes": ["2T", "4T", "6Y", "8Y"],
     "colors": ["Yellow", "Pink"],
-    "image": "https://source.unsplash.com/600x600/?kids,dress",
+    "image": "assets/images/icon_dress.png",
     "rating": 4.5,
     "reviews": [
       {"rating": 5, "text": "Adorable and comfy."},
@@ -229,7 +229,7 @@
     "offer": "CLEARANCE_20",
     "sizes": ["2T", "4T", "6Y", "8Y", "10Y"],
     "colors": ["Blue", "Red", "Green"],
-    "image": "https://source.unsplash.com/600x600/?kids,hoodie",
+    "image": "assets/images/icon_hoodie.png",
     "rating": 4.2,
     "reviews": [
       {"rating": 4, "text": "Good weight for cooler days."},
@@ -246,7 +246,7 @@
     "offer": null,
     "sizes": ["2T", "4T", "6Y", "8Y", "10Y"],
     "colors": ["Black", "Gray", "Blue"],
-    "image": "https://source.unsplash.com/600x600/?kids,tracksuit",
+    "image": "assets/images/icon_kids.png",
     "rating": 4.6,
     "reviews": [
       {"rating": 5, "text": "Great for sports and play."},
