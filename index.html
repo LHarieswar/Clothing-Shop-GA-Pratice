@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sample Fashion Shop</title>
+    <link rel="stylesheet" href="assets/style.css" />
+    <script defer src="assets/app.js"></script>
+  </head>
+  <body>
+    <header class="navbar">
+      <div class="container">
+        <a href="index.html" class="logo">FashionShop</a>
+        <nav>
+          <ul>
+            <li><a href="category.html#men">Men</a></li>
+            <li><a href="category.html#women">Women</a></li>
+            <li><a href="category.html#kids">Kids</a></li>
+            <li><a href="offers.html?offer=SUMMER_30">Offers</a></li>
+            <li><a href="cart.html">Cart (<span id="nav-cart-count">0</span>)</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero">
+        <div class="container hero-content">
+          <h1>Summer Sale 30% Off</h1>
+          <p>Refresh your wardrobe with our latest summer collection.</p>
+          <a href="offers.html?offer=SUMMER_30" class="btn btn-primary">Shop Sale</a>
+        </div>
+      </section>
+
+      <section class="categories container">
+        <h2>Shop by Category</h2>
+        <div class="category-grid">
+          <a href="category.html#men" class="category-card">
+            <div class="category-img" style="background-image: url('https://source.unsplash.com/400x300/?mens-fashion');"></div>
+            <h3>Men</h3>
+          </a>
+          <a href="category.html#women" class="category-card">
+            <div class="category-img" style="background-image: url('https://source.unsplash.com/400x300/?womens-fashion');"></div>
+            <h3>Women</h3>
+          </a>
+          <a href="category.html#kids" class="category-card">
+            <div class="category-img" style="background-image: url('https://source.unsplash.com/400x300/?kids-fashion');"></div>
+            <h3>Kids</h3>
+          </a>
+        </div>
+      </section>
+
+      <section class="featured container">
+        <h2>Featured Products</h2>
+        <div id="featured-products" class="product-grid"></div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div class="container">
+        <p>© 2025 FashionShop – Sample / dummy website for practicing Google Analytics.</p>
+        <a href="contact.html">Contact Us</a>
+      </div>
+    </footer>
+  </body>
+</html>
