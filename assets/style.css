@@ -6,13 +6,14 @@
 }
 /* Category images override */
 .category-grid .category-card:nth-child(1) .category-img {
-  background-image: url('assets/images/men.png') !important;
+  /* Use relative paths from style.css (which lives in the assets folder) */
+  background-image: url('images/men.png') !important;
 }
 .category-grid .category-card:nth-child(2) .category-img {
-  background-image: url('assets/images/women.png') !important;
+  background-image: url('images/women.png') !important;
 }
 .category-grid .category-card:nth-child(3) .category-img {
-  background-image: url('assets/images/kids.png') !important;
+  background-image: url('images/kids.png') !important;
 }
 
 body {
