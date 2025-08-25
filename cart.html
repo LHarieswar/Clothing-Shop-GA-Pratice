@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Your Cart</title>
+    <link rel="stylesheet" href="assets/style.css" />
+    <script defer src="assets/app.js"></script>
+  </head>
+  <body>
+    <header class="navbar">
+      <div class="container">
+        <a href="index.html" class="logo">FashionShop</a>
+        <nav>
+          <ul>
+            <li><a href="category.html#men">Men</a></li>
+            <li><a href="category.html#women">Women</a></li>
+            <li><a href="category.html#kids">Kids</a></li>
+            <li><a href="offers.html?offer=SUMMER_30">Offers</a></li>
+            <li><a href="cart.html">Cart (<span id="nav-cart-count">0</span>)</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <main>
+      <section class="container">
+        <h1>Your Cart</h1>
+        <div id="cart-items"></div>
+        <div id="cart-summary" class="cart-summary">
+          <p>Total: $<span id="cart-total">0</span></p>
+          <a id="checkout-btn" href="checkout.html" class="btn btn-primary">Begin Checkout</a>
+        </div>
+        <p id="empty-cart" class="empty-message">Your cart is empty.</p>
+      </section>
+    </main>
+    <footer class="footer">
+      <div class="container">
+        <p>© 2025 FashionShop – Sample / dummy website for practicing Google Analytics.</p>
+        <a href="contact.html">Contact Us</a>
+      </div>
+    </footer>
+  </body>
+</html>
